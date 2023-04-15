@@ -26,6 +26,9 @@
 
 > In this project, building an appliction with Rails and React in two app to for the messages greetings.🪄🎈
 
+## 🎨 Frontend Repo
+- [x] [Clich here to navigate to the Frontend Repo](https://github.com/osamaashraf6/hello-react-front-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - [x] Database👌
@@ -189,7 +192,7 @@ If you like this project just give me a star to the project😊
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/osamaashraf6/Budget-App/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/osamaashraf6/hello-rails-back-end/blob/dev/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
