@@ -24,7 +24,7 @@
 
 # 📖 [Rails React App] <a name="about-project"></a>
 
-> In this project, building an appliction with Rails and React in one app.🪄🎈
+> In this project, building an appliction with Rails and React in two app to for the messages greetings.🪄🎈
 
 ## 🛠 Built With <a name="built-with"></a>
 
